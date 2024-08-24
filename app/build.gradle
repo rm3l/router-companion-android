@@ -355,7 +355,7 @@ dependencies {
     implementation 'commons-net:commons-net:3.8.0'
     //WARNING: Test that changing JSCh versions do not produce unwanted side-effects, such as an inability to connect
     implementation 'com.jcraft:jsch:0.1.55'
-    implementation 'com.google.code.gson:gson:2.9.0'
+    implementation 'com.google.code.gson:gson:2.11.0'
     implementation "com.google.android.material:material:1.6.1"
     implementation "androidx.legacy:legacy-support-v4:1.0.0"
     implementation "androidx.cardview:cardview:1.0.0"
