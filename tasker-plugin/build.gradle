@@ -321,7 +321,7 @@ dependencies {
 
 //    implementation 'com.zsoltsafrany:needle:1.0.0'
 
-    implementation 'com.amazonaws:aws-android-sdk-core:2.45.0'
+    implementation 'com.amazonaws:aws-android-sdk-core:2.77.0'
     implementation 'com.amazonaws:aws-android-sdk-s3:2.47.0'
 
     implementation('com.stephentuso:welcome:1.4.1') {
