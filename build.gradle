@@ -45,7 +45,7 @@ buildscript {
 //        avocarrot_glispa_mobfox_version = '3.6.9'
 
         playPublisherPlugin_version = '3.7.0'
-        googlePlayServicesPlugin_version = '4.3.10'
+        googlePlayServicesPlugin_version = '4.4.2'
 
         maoni_version = '10.0.0'
 
