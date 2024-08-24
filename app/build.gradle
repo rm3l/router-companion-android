@@ -35,7 +35,7 @@ buildscript {
 
     dependencies {
         //noinspection GradleDynamicVersion
-        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.9.0'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:3.0.2'
 //        classpath 'com.getkeepsafe.dexcount:dexcount-gradle-plugin:2.0.0'
     }
 }
