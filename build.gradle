@@ -49,7 +49,7 @@ buildscript {
 
         maoni_version = '10.0.0'
 
-        leakCanaryVersion = '2.9.1'
+        leakCanaryVersion = '2.14'
 
         dexter_runtimePermissions_version = '6.2.3'
 
