@@ -351,7 +351,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-crashlytics'
     implementation 'com.google.firebase:firebase-analytics'
 
-    implementation 'com.google.guava:guava:31.1-android'
+    implementation 'com.google.guava:guava:33.3.1-android'
     implementation 'commons-net:commons-net:3.8.0'
     //WARNING: Test that changing JSCh versions do not produce unwanted side-effects, such as an inability to connect
     implementation 'com.jcraft:jsch:0.1.55'
