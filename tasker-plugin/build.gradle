@@ -301,7 +301,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-analytics'
 
     implementation 'com.google.code.gson:gson:2.9.0'
-    implementation 'com.google.guava:guava:31.1-android'
+    implementation 'com.google.guava:guava:33.3.1-android'
 
 //  implementation 'org.apache.commons:commons-lang3:3.5'
 
